@@ -17,7 +17,6 @@ public class CreateCombi {
     public static void main(String[] args) {
         String letters[] = {"EI", "SN", "TF", "JP"};
 
-
         for (int j = 0; j < 16; j++) {
             StringBuilder sb = new StringBuilder();
             for (int i = 0; i < 4; i++) {
